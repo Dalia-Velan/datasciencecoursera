@@ -2,3 +2,4 @@ datasciencecoursera
 ===================
 
 exercise
+#stam2
